@@ -1,0 +1,94 @@
+{
+    "Chains": [
+      {
+        "name": "Binance Testnet",
+        "symbol": "tBNB",
+        "chainId": 97,
+        "coinName": "Binance Coin",
+        "chainIdHex": "0x61",
+        "rpc":"https://data-seed-prebsc-1-s1.binance.org:8545",
+        "explorer": "https://testnet.bscscan.com/",
+        "logo": "https://bscscan.com/images/svg/brands/bnb.svg?v=1.3"
+      },
+      {
+        "name": "Binance Mainnet",
+        "symbol": "tBNB",
+        "chainId": 56,
+        "coinName": "Binance Coin",
+        "chainIdHex": "0x38",
+        "rpc":"https://bsc-dataseed2.binance.org/",
+        "explorer": "https://bscscan.com/",
+        "logo": "https://bscscan.com/images/svg/brands/bnb.svg?v=1.3"
+      },
+      {
+        "name": "Sepolia Test Network",
+        "symbol": "tETH",
+        "chainId": 11155111,
+        "coinName": "Ether",
+        "chainIdHex": "0xAA36A7",
+        "rpc":"https://sepolia.infura.io/v3/41e0714609d84b088e97155fe8849958",
+        "explorer": "https://sepolia.etherscan.io/",
+        "logo": "https://etherscan.io/images/svg/brands/ethereum.svg?v=1.3"
+      },
+      {
+        "name": "Goerli Test Network",
+        "symbol": "tETH",
+        "chainId": 5,
+        "coinName": "Ether",
+        "chainIdHex": "0x5",
+        "rpc":"https://goerli.infura.io/v3/41e0714609d84b088e97155fe8849958",
+        "explorer": "https://goerli.etherscan.io/",
+        "logo": "https://etherscan.io/images/svg/brands/ethereum.svg?v=1.3"
+      },
+      {
+        "name": "Ethereum Mainnet",
+        "symbol": "ETH",
+        "chainId": 1,
+        "coinName": "Ether",
+        "chainIdHex": "0x1",
+        "rpc":"https://mainnet.infura.io/v3/41e0714609d84b088e97155fe8849958",
+        "explorer": "https://etherscan.io/",
+        "logo": "https://etherscan.io/images/svg/brands/ethereum.svg?v=1.3"
+      },
+      {
+        "name": "Mumbai Polygon Network",
+        "symbol": "tMATIC",
+        "chainId": 80001,
+        "coinName": "Matic Coin",
+        "chainIdHex": "0x13881",
+        "rpc":"https://rpc-mumbai.maticvigil.com/",
+        "explorer": "https://mumbai.polygonscan.com/",
+        "logo": "https://polygonscan.com/images/svg/brands/poly.png?v=1.3"
+      },
+      {
+        "name": "Mumbai Network",
+        "symbol": "MATIC",
+        "chainId": 137,
+        "coinName": "Matic Coin",
+        "chainIdHex": "0x89",
+        "rpc":"https://rpc-mainnet.maticvigil.com",
+        "explorer": "https://polygonscan.com/",
+        "logo": "https://polygonscan.com/images/svg/brands/poly.png?v=1.3"
+      },
+      {
+        "name": "Avalanche Testnet",
+        "symbol": "tAVAX",
+        "chainId": 43113,
+        "coinName": "Avalanche",
+        "chainIdHex": "0xA869",
+        "rpc":"https://rpc.ankr.com/avalanche_fuji",
+        "explorer": "https://testnet.snowtrace.io/",
+        "logo": "https://snowtrace.io/images/svg/brands/main.svg?v=23.2.1.0"
+      },
+      {
+        "name": "Avalanche Mainnet",
+        "symbol": "AVAX",
+        "chainId": 43114,
+        "coinName": "Avalanche",
+        "chainIdHex": "0xA86A",
+        "rpc":"https://api.avax.network/ext/bc/C/rpc",
+        "explorer": "https://snowtrace.io/",
+        "logo": "https://snowtrace.io/images/svg/brands/main.svg?v=23.2.1.0"
+      }
+    ]
+  }
